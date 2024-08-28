@@ -23,7 +23,7 @@ Python, sql, c++ , Networking
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](Your LinkedIn Profile URL)
+- [LinkedIn]https://www.linkedin.com/in/mohit-sharma-773699325?
 - [Twitter](Your Twitter Profile URL)
 - [Personal Website/Portfolio](Your Website URL)
 
